@@ -2,7 +2,7 @@
 
 const myCloseFriends = ["Talha", "Imran", "Hammad", "Bilal"];
 const myOtherFriends = ["Subhan", "Taha", "Haseeb", "Zubair"];
-
+//get it done
 //ok let's try to merge them in one array
 
 //we can try some techniques. first let's see if the push method works
